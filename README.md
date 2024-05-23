@@ -1,6 +1,10 @@
 # describe-gh-image-demo
 
-This project shows how simple it is for a Quarkus application to use the GPT-4o model in order to extract code from a [screenshot](https://github.com/quarkusio/quarkus/assets/405347/8d57711b-4be5-437c-8fd4-90e542e65c3a) reported by a user
+This project shows how simple it is for a Quarkus application to use the GPT-4o model in order to extract code from a screenshot reported by a user.
+
+Here is the real world screenshot uploaded to a GitHub issue 
+
+![screenshot](images/code-as-screenshot.png)
 
 ## Prerequisites
 
